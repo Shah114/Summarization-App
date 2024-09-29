@@ -53,3 +53,9 @@ This file contains the CSS styling for the app. It includes a light blue and whi
 <br/>
 
 ## Usage
+1. Enter a block of text in the provided text area.
+2. Click the "Summarize" button.
+3. The summarized text will be displayed on the same page. <br/>
+<br/>
+
+## Example
