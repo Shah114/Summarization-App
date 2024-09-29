@@ -21,6 +21,7 @@ The web interface is designed with HTML, CSS (styled with a light blue and white
     └── index.html        # HTML template for the web interface
 ```
 <br/>
+
 1. app.py
 This is the main Python script where the Flask app is defined. It uses the transformers library to load the summarization pipeline and provides routes to handle user requests.
 
