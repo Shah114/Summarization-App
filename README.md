@@ -7,4 +7,19 @@ The web interface is designed with HTML, CSS (styled with a light blue and white
 ## Features
 * Summarization: Input long-form text, and the app will return a concise summary using a pre-trained transformer model.
 * User-Friendly Interface: The web interface is minimalist, featuring a clean design with animations to make interactions smooth and appealing.
-* Real-Time Processing: The app processes text in real-time and quickly returns summaries for various text lengths.
+* Real-Time Processing: The app processes text in real-time and quickly returns summaries for various text lengths. <br/>
+<br/>
+
+## Project Structure
+```graphql
+.
+├── app.py                # The main Flask app
+├── requirements.txt      # Python dependencies
+├── static/
+│   └── style.css         # Custom CSS for styling
+└── templates/
+    └── index.html        # HTML template for the web interface
+```
+<br/>
+
+
