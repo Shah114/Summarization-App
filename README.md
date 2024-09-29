@@ -33,4 +33,23 @@ This file contains the CSS styling for the app. It includes a light blue and whi
 <br/>
 
 ## How to Run the App
+1. Clone the repository:
 
+   ```bash
+   git clone https://github.com/Shah114/Summarization-App.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd summarization-app
+   ```
+
+3. Start the Flask server:
+
+   ```bash
+   python app.py
+   ```
+<br/>
+
+## Usage
