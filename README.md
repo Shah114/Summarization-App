@@ -3,3 +3,8 @@ This project is a web-based text summarization application built using the Flask
 
 The web interface is designed with HTML, CSS (styled with a light blue and white color scheme), and includes basic animations to enhance user experience. <br/>
 <br/>
+
+## Features
+* Summarization: Input long-form text, and the app will return a concise summary using a pre-trained transformer model.
+* User-Friendly Interface: The web interface is minimalist, featuring a clean design with animations to make interactions smooth and appealing.
+* Real-Time Processing: The app processes text in real-time and quickly returns summaries for various text lengths.
