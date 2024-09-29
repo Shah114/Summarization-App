@@ -74,3 +74,6 @@ The Hugging Face transformers library is popular for NLP tasks, offering pre-tra
 <br/>
 
 ## Technology Stack
+* Backend: Python, Flask
+* NLP: Hugging Face Transformers (pipeline for summarization)
+* Frontend: HTML, CSS (with animations)
