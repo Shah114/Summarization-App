@@ -80,4 +80,5 @@ The Hugging Face transformers library is popular for NLP tasks, offering pre-tra
 <br/>
 
 ## Contributions
-Feel free to fork the project and make pull requests! Any contributions to improve functionality or design are welcome. 
+Feel free to fork the project and make pull requests! Any contributions to improve functionality or design are welcome.
+<br/>
